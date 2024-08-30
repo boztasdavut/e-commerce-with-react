@@ -1,0 +1,29 @@
+.navbar-container{
+    width: 100%;
+    height: 100px;
+    background-color:beige;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.imaj-resmi{
+    height: 100%;
+    width: 100px;
+}
+
+.imaj-etiketi{
+    height: 100%;
+}
+
+.arama-divi{
+    height: 100%;
+}
+
+.arama-sepet-container{
+    display: flex;
+    flex-direction: row;
+
+}
